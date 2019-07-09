@@ -1,2 +1,3 @@
 print ('Hello!')
 print('world')
+print('hello me dear friend!')
