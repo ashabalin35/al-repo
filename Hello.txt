@@ -1,4 +1,4 @@
-print ('Hello!')
-print('world')
-print('hello me dear friend!')
-print('How do you do?')
+print ('Hello!;')
+print('world;')
+print('hello me dear friend!;')
+print('How do you do?;')
